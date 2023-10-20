@@ -1,4 +1,4 @@
- I’m interested in UI/UX
-Front-end development
+ - I’m interested in UI/UX
+ - Front-end development
 
 
